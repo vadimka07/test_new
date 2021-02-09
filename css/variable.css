@@ -1,0 +1,33 @@
+:root {
+	--fonSizeAllDocument: 16px;
+	--partColorLogoBlue: #2196f3;
+	--colorBlackMenu: #212121;
+	--colorlinkHeader: #757575;
+	--colorTitle: #212121;
+	--colorMenuHover: #2196f3;
+	--colorButton: #2196f3;
+	--colorBlack: #000000;
+	--colorWhite: #fff;
+	--colorText: #757575;
+	--colorLinkFooter: rgba(255, 255, 255, 0.6);
+	--bgColorTopBanner: rgba(47, 48, 58, 0.4);
+	--bgColorFooter: #2f303a;
+	--bgColorAdvantagesImage: rgba(245, 244, 250, 1);
+	--bgColorOurTeamSection: rgba(245, 244, 250, 1);
+
+	/*color page portfolio*/
+
+	--colorbuttonDafault: #f5f4fa;
+	--colorbuttonActive: #2196f3;
+	--colortextButton: #212121;
+	--boxShadowActiveButton: 0px 3px 1px rgba(0, 0, 0, 0.1),
+		0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+
+	/*font family*/
+
+	--ffReg: Roboto;
+	--ffBold: RobotoBold;
+	--ffBlack: RobotoBlack;
+	--ffMedium: RobotoMedium;
+	--ffLogo: RalewayBold;
+}
