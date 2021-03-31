@@ -38,7 +38,7 @@ p {
 }
 
 header {
-  background-color: #ffffff;
+  background-color: var(--colorWhite);
   position: fixed;
   left: 0;
   right: 0;
